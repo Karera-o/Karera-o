@@ -32,9 +32,9 @@
 
 - :telescope: I’m working as a Software Engineer 
 
-- :seedling: I'm augmenting my programming skills.
+- :seedling: I'm augmenting my Programming skills.
 
-- :zap: In my free time, I read bbooks and read tech articles.
+- :zap: In my free time, I read books and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/karera-olivier-288948216)
 
