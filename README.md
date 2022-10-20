@@ -28,7 +28,7 @@
 
 <h3> 👨‍💻: About Me :</h3> <br/>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Rwanda.
+#### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Rwanda.
 
 - :telescope: I’m working as a Software Engineer 
 
