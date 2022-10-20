@@ -9,7 +9,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/karera-olivier-288948216">
+  <a href="https://linkedin.com/in/karera-olivier-288948216">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/OlivierKarera1">
