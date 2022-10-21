@@ -32,7 +32,7 @@
 
 - :telescope: I’m working as a Software Engineer 
 
-- :seedling: I work everday to increase my Programming skills.
+- :seedling: I work hard everday to increase my Programming skills.
 
 - :zap: In my free time, I read books and read tech articles.
 
