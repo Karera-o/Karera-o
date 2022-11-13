@@ -69,7 +69,6 @@
 <img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant)](https://git.io/streak-stats' >
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8)](https://github.com/anuraghazra/github-readme-stats'
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8'
   <img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant)](https://git.io/streak-stats' >
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
