@@ -66,10 +66,10 @@
 
 ### :fire: My Stats :
 
-<div>
+<div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=Karera-o'>
 </div>
-  <div>
+  <div align="center">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant' >
     
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8'>
