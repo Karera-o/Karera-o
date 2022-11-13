@@ -67,5 +67,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karera-o)](https://github.com/Karera-o/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8)](https://github.com/Karera-o/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant)](https://git.io/streak-stats)
 
