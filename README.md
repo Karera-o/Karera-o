@@ -68,5 +68,6 @@
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8'
 </div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karera-o)](https://github.com/Karera-o/github-readme-stats)
-<img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant)](https://git.io/streak-stats' >
+  <img src='https://github-readme-stats.vercel.app/api?username=Karera-o'
+<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karera-o)](https://github.com/Karera-o/github-readme-stats) -->
+<img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant' >
