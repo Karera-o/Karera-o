@@ -65,7 +65,8 @@
 
 ### :fire: My Stats :
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karera-o)](https://github.com/Karera-o/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karera-o)](https://github.com/Karera-o/github-readme-stats)
+<img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant)](https://git.io/streak-stats' >
 
 <div align='center'>
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant)](https://git.io/streak-stats) -->
