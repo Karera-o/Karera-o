@@ -45,7 +45,8 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-<img src='https://github-readme-stats.vercel.app/api?username=Karera-o'>
+<img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant' >.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -69,7 +70,7 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8'
 </div>
   <div>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant' >
     <img src='https://github-readme-stats.vercel.app/api?username=Karera-o'>
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant' >
   </div>
   
