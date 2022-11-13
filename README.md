@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Karera-o&style=flat-square&color=blue" alt=""/>
 </div>
 <br/><br/>
-<div>
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
