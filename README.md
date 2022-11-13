@@ -66,7 +66,7 @@
 
 ### :fire: My Stats :
 
-<div align='center'>
+<div>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8'
 </div>
   <div>
