@@ -66,7 +66,7 @@
 
 ### :fire: My Stats :
 
-<div align="center">
+<div>
   <img src='https://github-readme-stats.vercel.app/api?username=Karera-o'>
 </div>
   <div>
