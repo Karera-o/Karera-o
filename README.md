@@ -9,7 +9,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/karera-olivier-288948216">
+  <a href="https://www.linkedin.com/in/karera-o/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/OlivierKarera1">
@@ -36,7 +36,7 @@
 
 - :zap: In my free time, I read books and tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/karera-o)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karera-o/)
 
 ---
 
