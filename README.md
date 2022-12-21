@@ -36,7 +36,7 @@
 
 - :zap: In my free time, I read books and tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/karera-olivier-288948216)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/karera-o)
 
 ---
 
