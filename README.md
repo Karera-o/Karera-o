@@ -12,13 +12,8 @@
   <a href="https://www.linkedin.com/in/karera-o/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://twitter.com/OlivierKarera1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
 </div>
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karera-o&style=flat-square&color=blue" alt=""/>
-</div> -->
+
 <br/><br/>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
@@ -28,53 +23,79 @@
 
 <h3> 👨‍💻: About Me :</h3>
 
-#### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Rwanda.
+#### I am a Python Developer and AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Rwanda.
 
-- :telescope: I develop softwares that improves people lives. 
+- :telescope: I develop scalable backend systems and AI-powered solutions to solve real-world problems.
 
-- :seedling: I work hard everday to increase my Programming skills.
+- :seedling: I am passionate about **Large Language Models (LLMs)**, **Machine Learning**, and **Software Engineering Best Practices**.
 
-- :zap: In my free time, I read books and tech articles.
+- :zap: I write clean, maintainable code using **Test-Driven Development (TDD)**, **Design Patterns**, and **Python Best Practices**.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karera-o/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karera-o/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Skills and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-<img src='https://github-readme-stats.vercel.app/api?username=Karera-o'>
-<img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant' >.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="linux" **alt="linux" width="40" height="40"/>
-</div>
 
+---
 
-<!--   
+### :fire: My Interests :
 
+- **Large Language Models (LLMs)**: Exploring and building applications using LLMs like GPT, LLaMA, and Hugging Face Transformers.
+- **AI/ML**: Developing machine learning models for NLP, computer vision, and predictive analytics.
+- **Backend Development**: Building scalable and efficient backend systems using modern Python frameworks.
+- **Open Source**: Actively contributing to open-source projects and collaborating with the community.
 
-### :fire: My Stats :
+---
+
+### :rocket: Recent Projects :
+
+#### 1. **AI-Powered Chatbot**
+- Built a chatbot using **OpenAI's GPT-4** and **FastAPI** for seamless integration.
+- Utilized **Docker** and **Kubernetes** for deployment and scaling.
+- [Link to Repository](#)
+
+#### 2. **E-Commerce Backend**
+- Developed a scalable e-commerce backend using **Django** and **PostgreSQL**.
+- Implemented **Redis** for caching and **Celery** for background tasks.
+- [Link to Repository](#)
+
+#### 3. **Sentiment Analysis Tool**
+- Created a sentiment analysis tool using **PyTorch** and **Hugging Face Transformers**.
+- Deployed the model using **Flask** and **AWS EC2**.
+- [Link to Repository](#)
+
+---
+<!--
+### :bar_chart: GitHub Stats :
 
 <div>
-  <img src='https://github-readme-stats.vercel.app/api?username=Karera-o'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karera-o&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
-  <div>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=Karera-o&theme=elegant' >
-    
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&langs_count=8'>
-  </div>
-  -->
-  
+-->
+
+---
+
+### :handshake: Let's Collaborate!
+I’m always open to collaborating on interesting projects, especially in the fields of **AI**, **LLMs**, and **Backend Development**. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/karera-o/).
