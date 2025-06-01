@@ -105,17 +105,17 @@ class OlivierKarera:
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivierkarera&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivierkarera&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karera-o&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olivierkarera&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karera-o&theme=radical&hide_border=false" />
 </div>
 
 ## 🐍 Watch me code!
 <div align="center">
-  <img src="https://github.com/olivierkarera/olivierkarera/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
+  <img src="https://github.com/Karera-o/Karera-o/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
 </div>
 
 ## 🎯 What Drives Me
