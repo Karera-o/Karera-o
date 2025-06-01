@@ -115,7 +115,7 @@ class OlivierKarera:
 
 ## 🐍 Watch me code!
 <div align="center">
-  <img src="https://github.com/Karera-o/Karera-o/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
+  <img src="https://github.com/Karera-o/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
 </div>
 
 ## 🎯 What Drives Me
