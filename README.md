@@ -44,12 +44,12 @@
 <td width="60%">
 
 ### 🎯 What I Bring to Your Team
-- 🎓 **Carnegie Mellon University Graduate** (MS Information Technology, 2025)
-- 💻 **Full-Stack Software Engineer** with backend specialization
-- ⚡ **Performance Expert** - Built systems serving **10,000+** users
-- 🚀 **Results-Driven** - Delivered **60% faster APIs** and **35% fewer bugs**
-- 🧪 **Quality Focused** - **90%+ test coverage** using TDD practices
-- 👥 **Team Player** - Mentored developers and led technical initiatives
+- 🎓 **Carnegie Mellon University Graduate** Master's degree in Information Technology (2025)
+- 💻 **Experienced Software Engineer** 3+ years building web applications and APIs
+- ⚡ **Performance Oriented** - Made APIs 60% faster and reduced bugs by 35%
+- 🚀 **Scalability Oriented** - Built systems that handle 10,000+ users simultaneously
+- 🧪 **Quality Focused** - Write comprehensive tests (90%+ coverage) to prevent issues
+- 👥 **Team Player** - Mentor junior developers and lead technical projects
 
 ### 🔥 My Expertise Areas
 - **Backend Development** with Python, Django, FastAPI
