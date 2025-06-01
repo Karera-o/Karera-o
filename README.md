@@ -188,7 +188,7 @@
 | **Master of Science in Information Technology** | Carnegie Mellon University | 2023-2025 |
 | **Bachelor of Information Technology** | Adventist University of Central Africa | 2019-2023 |
 
-### 🏆 Professional Certifications (2024-2025)
+### 🏆 Professional Certifications (2023-2025)
 ![DevOps](https://img.shields.io/badge/DevOps%20Foundations-Infrastructure%20as%20Code-blue?style=for-the-badge&logo=linkedin)
 ![Django](https://img.shields.io/badge/Django%20REST-APIs%20%26%20Python-green?style=for-the-badge&logo=udemy)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Practical%20CI/CD-black?style=for-the-badge&logo=github)
