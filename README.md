@@ -53,7 +53,7 @@
 
 ### 🔥 My Expertise Areas
 - **Backend Development** with Python, Django, FastAPI
-- **Database Design** and optimization (PostgreSQL, MongoDB)
+- **Database Design** and optimization (PostgreSQL)
 - **Software Architecture** and scalable system design
 - **DevOps Practices** - Docker, AWS, CI/CD pipelines
 - **API Development** and microservices architecture
@@ -72,7 +72,7 @@
 💼 Experience        : 3+ Years
 🎯 Main Stack        : Python, Django, PostgreSQL
 📚 Recent Education  : Carnegie Mellon MS IT
-🚀 Passion           : Scalable Backend Systems
+🚀 Passion           : Sytem Architecture
 ```
 
 </td>
