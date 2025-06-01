@@ -3,7 +3,7 @@
 
 <!-- Animated title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23F77B72&size=40&center=true&vCenter=true&width=570&height=80&duration=3000&pause=1000&lines=Software+Engineer+💻;Backend+Developer+⚡;Carnegie+Mellon+Graduate+🎓;Software+Architect🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23F77B72&size=40&center=true&vCenter=true&width=570&height=80&duration=3000&pause=1000&lines=Software+Engineer+💻;Backend+Developer+⚡;Carnegie+Mellon+Graduate+🎓;Software+Architect+📐" alt="Typing SVG" />
 </h1>
 
 <!-- Badges section -->
