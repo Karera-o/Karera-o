@@ -156,7 +156,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karera-o&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://camo.githubusercontent.com/66e0b79f9da5cfcde7497dee53a1536a740f6fe98af1ff2f1aea6b725e87c6d6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b61726572612d6f267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" width="70%" />
 </div>
 
 <div align="center">
