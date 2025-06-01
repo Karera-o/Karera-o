@@ -150,10 +150,23 @@
 
 ## 📊 GITHUB STATS
 
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karera-o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Karera-o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!--   <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karera-o&layout=compact&theme=tokyonight&hide_border=true" /> -->
+<!--   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karera-o&theme=tokyonight" /> -->
 </div>
+
+<div align="center">
+<!--   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karera-o&theme=tokyonight" /> -->
+<!--   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karera-o&theme=tokyonight" /> -->
+</div>
+
+<div align="center">
+<!--   <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Karera-o?cardType=github&theme=tokyonight" /> -->
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karera-o&layout=compact&theme=tokyonight&hide_border=true" /> -->
+</div>
+
 
 </div>
 <div align="center">
@@ -236,7 +249,7 @@
 <td width="50%">
 
 ### 🔍 Ideal Opportunities
-- **Backend Engineer** roles in growing companies
+- **Backend Engineer** roles in dynamic tech environments
 - **Full-Stack Developer** positions with backend focus
 - **DevOps Engineer** opportunities in cloud environments
 - **Technical Lead** roles in software development teams
@@ -247,7 +260,7 @@
 ### 💼 What I Offer Employers
 - ⚡ **Immediate Impact** - 3+ years of proven experience
 - 🎓 **Strong Foundation** - Carnegie Mellon education
-- 🚀 **Performance Focus** - Track record of optimization
+- 🚀 **Full-Stack Versatility** - Backend specialist with DevOps and architecture skills
 - 👥 **Team Collaboration** - Mentoring and leadership skills
 
 </td>
