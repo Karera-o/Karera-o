@@ -22,7 +22,7 @@
   <a href="mailto:olivierkarera2020@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="your-portfolio-url" target="_blank">
+  <a href="olivierkarera.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://github.com/Karera-o" target="_blank">
