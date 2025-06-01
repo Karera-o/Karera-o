@@ -22,7 +22,7 @@
   <a href="mailto:olivierkarera2020@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="olivierkarera.com" target="_blank">
+  <a href="https://oliviekarera.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://github.com/Karera-o" target="_blank">
@@ -32,7 +32,7 @@
 
 <!-- Quote -->
 <p align="center">
-  <i>💡 "Building scalable software solutions that empower businesses and improve lives" 💡</i>
+  <i>💻 "I measure success in uptime percentages and user satisfaction - dedicated to building Python applications that become your competitive edge" 💻</i>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ### 🔥 My Expertise Areas
 - **Backend Development** with Python, Django, FastAPI
 - **Database Design** and optimization (PostgreSQL, MongoDB)
-- **System Architecture** and scalable design patterns
+- **Software Architecture** and scalable system design
 - **DevOps Practices** - Docker, AWS, CI/CD pipelines
 - **API Development** and microservices architecture
 - **Performance Optimization** and security implementation
