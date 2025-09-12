@@ -3,7 +3,7 @@
 
 <!-- Animated title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23F77B72&size=40&center=true&vCenter=true&width=570&height=80&duration=3000&pause=1000&lines=Software+Engineer+💻;Backend+Developer+⚡;Carnegie+Mellon+Graduate+🎓;Software+Architect+📐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23F77B72&size=40&center=true&vCenter=true&width=570&height=80&duration=3000&pause=1000&lines=Software+Engineer+;Backend+Developer+⚡;Carnegie+Mellon+Graduate+;Software+Architect+" alt="Typing SVG" />
 </h1>
 
 <!-- Badges section -->
@@ -43,15 +43,15 @@
 <tr>
 <td width="60%">
 
-### 🎯 What I Bring to Your Team
-- 🎓 **Carnegie Mellon University Graduate** Master's degree in Information Technology (2025)
-- 💻 **Experienced Software Engineer** 3+ years building web applications and APIs
-- ⚡ **Performance Oriented** - Made APIs 60% faster and reduced bugs by 35%
-- 🚀 **Scalability Oriented** - Built systems that handle 10,000+ users simultaneously
-- 🧪 **Quality Focused** - Write comprehensive tests (90%+ coverage) to prevent issues
-- 👥 **Team Player** - Mentor junior developers and lead technical projects
+### What I Bring to Your Team
+-  **Carnegie Mellon University Graduate** Master's degree in Information Technology (2025)
+-  **Experienced Software Engineer** 3+ years building web applications and APIs
+-  **Performance Oriented** - Made APIs 60% faster and reduced bugs by 35%
+-  **Scalability Oriented** - Built systems that handle 10,000+ users simultaneously
+-  **Quality Focused** - Write comprehensive tests (90%+ coverage) to prevent issues
+-  **Team Player** - Mentor junior developers and lead technical projects
 
-### 🔥 My Expertise Areas
+###  My Expertise Areas
 - **Backend Development** with Python, Django, FastAPI
 - **Database Design** and optimization (PostgreSQL)
 - **Software Architecture** and scalable system design
@@ -64,15 +64,15 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" width="100%" />
 
-### 📊 Quick Facts
+###  Quick Facts
 ```text
-👨‍💻 Role              : Software Engineer
-🏢 Current Position   : Principle Engineer
-🌍 Location          : Kigali, Rwanda  
-💼 Experience        : 3+ Years
-🎯 Main Stack        : Python, Django, PostgreSQL
-📚 Recent Education  : Carnegie Mellon MS IT
-🚀 Passion           : Sytem Architecture
+ Role              : Software Engineer
+ Current Position   : Principle Engineer
+ Location          : Kigali, Rwanda  
+ Experience        : 3+ Years
+ Main Stack        : Python, Django, PostgreSQL
+ Recent Education  : Carnegie Mellon MS IT
+ Passion           : Sytem Architecture
 ```
 
 </td>
@@ -81,9 +81,9 @@
 
 ---
 
-## 🛠️ TECHNOLOGY STACK
+## 🛠 TECHNOLOGY STACK
 
-<h3 align="center">🚀 Backend & Languages</h3>
+<h3 align="center"> Backend & Languages</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" title="Django" alt="Django" width="50" height="50"/>&nbsp;
@@ -93,14 +93,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
 </p>
 
-<h3 align="center">🗄️ Databases & Storage</h3>
+<h3 align="center">🗄 Databases & Storage</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>&nbsp;
 </p>
 
-<h3 align="center">☁️ DevOps & Cloud</h3>
+<h3 align="center"> DevOps & Cloud</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>&nbsp;
@@ -109,7 +109,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp;
 </p>
 
-<h3 align="center">🧪 Testing & Development Tools</h3>
+<h3 align="center"> Testing & Development Tools</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
@@ -118,20 +118,20 @@
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+##  PROFESSIONAL EXPERIENCE
 
 <div align="center">
 
-| 🏢 **Company** | 👔 **Role** | 📅 **Period** | 🎯 **Key Achievements** |
+|  **Company** |  **Role** |  **Period** |  **Key Achievements** |
 |:---:|:---:|:---:|:---:|
-| **Nordic Loop** 🇸🇪 | Principle Engineer | 2025-Present | 🚀 Enterprise marketplace, CQRS implementation |
-| **Comprehensive Staffing Resources** 🇷🇼 | Senior Software Engineer | 2023-Present | 🧪 Clean architecture, 90%+ test coverage |
-| **Rwanda Ministry of Education** 🏛️ | Software Engineer Intern | 2024 | 📈 Government digitization platform |
-| **Professional Freelancer** 💼 | Software Developer | 2022-Present | 🛠️ Custom solutions, client projects |
+| **Nordic Loop**  | Principle Engineer | 2025-Present |  Enterprise marketplace|
+| **Comprehensive Staffing Resources**  | Senior Software Engineer | 2023-Present |  Clean architecture, 90%+ test coverage |
+| **Rwanda Ministry of Education**  | Software Engineer Intern | 2024 |  Government digitization platform |
+| **Professional Freelancer**  | Software Developer | 2022-Present | 🛠 Custom solutions, client projects |
 
 </div>
 
-### 🎯 Measurable Impact
+###  Measurable Impact
 
 <table align="center">
 <tr>
@@ -148,7 +148,7 @@
 
 ---
 
-## 📊 GITHUB STATS
+##  GITHUB STATS
 
 
 <div align="center">
@@ -182,13 +182,13 @@
 
 <div align="center">
 
-### 🏫 Academic Background
-| 🎓 **Degree** | 🏛️ **Institution** | 📅 **Period** |
+###  Academic Background
+|  **Degree** |  **Institution** |  **Period** |
 |:---:|:---:|:---:|
 | **Master of Science in Information Technology** | Carnegie Mellon University | 2023-2025 |
 | **Bachelor of Information Technology** | Adventist University of Central Africa | 2019-2023 |
 
-### 🏆 Professional Certifications (2023-2025)
+###  Professional Certifications (2023-2025)
 ![DevOps](https://img.shields.io/badge/DevOps%20Foundations-Infrastructure%20as%20Code-blue?style=for-the-badge&logo=linkedin)
 ![Django](https://img.shields.io/badge/Django%20REST-APIs%20%26%20Python-green?style=for-the-badge&logo=udemy)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Practical%20CI/CD-black?style=for-the-badge&logo=github)
@@ -199,7 +199,7 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS & SOLUTIONS
+##  FEATURED PROJECTS & SOLUTIONS
 
 <table>
 <tr>
@@ -207,17 +207,17 @@
 
 ###  Business Solutions Delivered
 
-- **🏪 Enterprise Marketplace Platform** - Built complete auction system with user roles, real-time bidding, and admin dashboards for Nordic Loop
-- **🏥 Hospital Management System** - Optimized PostgreSQL databases to generate reports 20% faster for healthcare operations
-- **🏛️ Government Education Portal** - Digitized university application process, improving user experience by 40% for Rwanda Ministry of Education
-- **🛒 E-commerce Platform** - Developed payment processing and inventory management system as freelance project
+- ** Enterprise Marketplace Platform** - Built complete auction system with user roles, real-time bidding, and admin dashboards for Nordic Loop
+- ** Hospital Management System** - Optimized PostgreSQL databases to generate reports 20% faster for healthcare operations
+- ** Government Education Portal** - Digitized university application process, improving user experience by 40% for Rwanda Ministry of Education
+- ** E-commerce Platform** - Developed payment processing and inventory management system as freelance project
 
 </td>
 <td width="50%">
 
-### 🛠️ Technical Achievements
-- **🚀 API Performance Optimization** - Implemented advanced patterns that made APIs respond 40% faster
-- **🏗️ System Architecture Design** - Built modular, scalable backends that handle 10,000+ concurrent users
+###  Technical Achievements
+- ** API Performance Optimization** - Implemented advanced patterns that made APIs respond 40% faster
+- **🏗 System Architecture Design** - Built modular, scalable backends that handle 10,000+ concurrent users
 - **Database Optimization** - Optimized PostgreSQL queries for 75% faster data delivery
 - **CI/CD Pipeline Setup** - Automated testing and deployment
 
@@ -227,7 +227,7 @@
 
 <!-- ---
 
-## 🐍 CONTRIBUTION ACTIVITY
+##  CONTRIBUTION ACTIVITY
 
 <div align="center">
   <img src="https://github.com/Karera-o/Karera-o/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
@@ -236,7 +236,7 @@
 ---
 -->
 
-## 📈 DEVELOPMENT ACTIVITY
+##  DEVELOPMENT ACTIVITY
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karera-o&theme=tokyo-night&hide_border=true" width="100%" />
@@ -244,7 +244,7 @@
 
 ---
 
-## 🎯 WHAT I'M LOOKING FOR
+##  WHAT I'M LOOKING FOR
 
 <table>
 <tr>
@@ -259,22 +259,22 @@
 </td>
 <td width="50%">
 
-### 💼 What I Offer Employers
-- ⚡ **Immediate Impact** - 3+ years of proven experience
-- 🎓 **Strong Foundation** - Carnegie Mellon education
-- 🚀 **Full-Stack Versatility** - Backend specialist with DevOps and architecture skills
-- 👥 **Team Collaboration** - Mentoring and leadership skills
-
+###  What I Offer Employers
+-  **Immediate Impact** - 3+ years of proven experience
+-  **Strong Foundation** - Carnegie Mellon education
+-  **Full-Stack Versatility** - Backend specialist with DevOps and architecture skills
+-  **Team Collaboration** - Mentoring and leadership skills
+ 
 </td>
 </tr>
 </table>
 
 ---
 
-## 🤝 LET'S WORK TOGETHER
+##  LET'S WORK TOGETHER
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ready+to+build+amazing+software!+🚀;Open+to+new+opportunities!+💼;Let's+create+something+great!+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ready+to+build+amazing+software!+;Open+to+new+opportunities!+;Let's+create+something+great!+" />
 </div>
 
 <p align="center">
