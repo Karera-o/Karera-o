@@ -32,12 +32,12 @@
 
 <!-- Quote -->
 <p align="center">
-  <i>💻 "I measure success in uptime percentages and user satisfaction - dedicated to building Python applications that become your competitive edge" 💻</i>
+  <i> "I measure success in uptime percentages and user satisfaction - dedicated to building Python applications that become your competitive edge" </i>
 </p>
 
 ---
 
-## 🧑‍💻 ABOUT ME
+##  ABOUT ME
 
 <table>
 <tr>
@@ -178,7 +178,7 @@
 
 ---
 
-## 🎓 EDUCATION & LEARNING
+##  EDUCATION & LEARNING
 
 <div align="center">
 
@@ -250,7 +250,7 @@
 <tr>
 <td width="50%">
 
-### 🔍 Ideal Opportunities
+###  Ideal Opportunities
 - **Backend Engineer** roles in dynamic tech environments
 - **Full-Stack Developer** positions with backend focus
 - **DevOps Engineer** opportunities in cloud environments
