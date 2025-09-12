@@ -214,17 +214,17 @@
 
 ###  Business Solutions Delivered
 
-- ** Enterprise Marketplace Platform** - Built complete auction system with user roles, real-time bidding, and admin dashboards for Nordic Loop
-- ** Hospital Management System** - Optimized PostgreSQL databases to generate reports 20% faster for healthcare operations
-- ** Government Education Portal** - Digitized university application process, improving user experience by 40% for Rwanda Ministry of Education
-- ** E-commerce Platform** - Developed payment processing and inventory management system as freelance project
+- **Enterprise Marketplace Platform** - Built complete auction system with user roles, real-time bidding, and admin dashboards for Nordic Loop
+- **Hospital Management System** - Optimized PostgreSQL databases to generate reports 20% faster for healthcare operations
+- **Government Education Portal** - Digitized university application process, improving user experience by 40% for Rwanda Ministry of Education
+- **E-commerce Platform** - Developed payment processing and inventory management system as freelance project
 
 </td>
 <td width="50%">
 
 ###  Technical Achievements
-- ** API Performance Optimization** - Implemented advanced patterns that made APIs respond 40% faster
-- **🏗 System Architecture Design** - Built modular, scalable backends that handle 10,000+ concurrent users
+- **API Performance Optimization** - Implemented advanced patterns that made APIs respond 40% faster
+- **System Architecture Design** - Built modular, scalable backends that handle 10,000+ concurrent users
 - **Database Optimization** - Optimized PostgreSQL queries for 75% faster data delivery
 - **CI/CD Pipeline Setup** - Automated testing and deployment
 
