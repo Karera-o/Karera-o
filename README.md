@@ -32,7 +32,7 @@
 
 <!-- Quote -->
 <p align="center">
-  <i> "I measure success in uptime percentages and user satisfaction - dedicated to building Python applications that become your competitive edge" </i>
+  <i> "I build systems that reduce costs by 90% while boosting performance by 60% - specializing in high-impact backend solutions for 1M+ users" </i>
 </p>
 
 ---
@@ -44,20 +44,19 @@
 <td width="60%">
 
 ### What I Bring to Your Team
--  **Carnegie Mellon University Graduate** Master's degree in Information Technology (2025)
--  **Experienced Software Engineer** 3+ years building web applications and APIs
--  **Performance Oriented** - Made APIs 60% faster and reduced bugs by 35%
--  **Scalability Oriented** - Built systems that handle 10,000+ users simultaneously
--  **Quality Focused** - Write comprehensive tests (90%+ coverage) to prevent issues
--  **Team Player** - Mentor junior developers and lead technical projects
+-  **Experience as Software Engineer** with 3+ years building web applications 
+-  **Performance Optimization**** - 60% performance improvement in API response times
+-  **Cost Optimization** - Reduced costs by 90% infrastructure cost reduction (PAAS → IAAS migration)
+-  **System Scalability Mindset** - Built systems that handle 10,000+ users simultaneously
+-  **40% faster feature delivery** - through architectural improvements
+-  **System Reliability & Scale** - 35% reduction in production bugs via TDD & 99% payment success rate with Stripe integration
 
-###  My Expertise Areas
-- **Backend Development** with Python, Django, FastAPI
-- **Database Design** and optimization (PostgreSQL)
-- **Software Architecture** and scalable system design
-- **DevOps Practices** - Docker, AWS, CI/CD pipelines
-- **API Development** and microservices architecture
-- **Performance Optimization** and security implementation
+###  Core Expertise 
+- **Software Architecture** Microservices & Modular Monoliths
+- **Backend Development** with Python (Django, FastAPI) , Typescript (Next.js,Node.js)
+- **DevOps Practices** - Docker,Kubernetes, Terraform, AWS, CI/CD pipelines
+- **Performance Engineering** - Caching, Async Processing, DB Optimization
+- **Technical Leadership** - Mentoring, Standards, Decision-Making
 
 </td>
 <td width="40%">
@@ -67,12 +66,14 @@
 ###  Quick Facts
 ```text
  Role              : Software Engineer
- Current Position   : Principle Engineer
- Location          : Kigali, Rwanda  
+ Current Position  : Principle Engineer 
  Experience        : 3+ Years
- Main Stack        : Python, Django, PostgreSQL
  Recent Education  : Carnegie Mellon MS IT
- Passion           : Sytem Architecture
+ Key Impact        : 90% Cost Reduction
+                   : 60% Performance Gain
+ Location          : Kigali, Rwanda 
+ Open to           : Relocate
+  
 ```
 
 </td>
@@ -80,6 +81,12 @@
 </table>
 
 ---
+
+##  Current Roles
+
+- **Principal Engineer** @ Nordic Loop (2025-Present)
+- **Backend Lead Engineer** @ Comphrensive Staffing Resources (2023-Present)
+
 
 ## 🛠 TECHNOLOGY STACK
 
@@ -124,10 +131,10 @@
 
 |  **Company** |  **Role** |  **Period** |  **Key Achievements** |
 |:---:|:---:|:---:|:---:|
-| **Nordic Loop**  | Principle Engineer | 2025-Present |  Enterprise marketplace|
-| **Comprehensive Staffing Resources**  | Senior Software Engineer | 2023-Present |  Clean architecture, 90%+ test coverage |
+| **Nordic Loop**  | Principle Engineer | 2025-Present |  Reduced technical debt by 30%|
+| **Comprehensive Staffing Resources**  | Senior Software Engineer | 2023-Present |  50% faster deployment (Docker), 90% cost reduction (PAAS → IAAS) |
 | **Rwanda Ministry of Education**  | Software Engineer Intern | 2024 |  Government digitization platform |
-| **Professional Freelancer**  | Software Developer | 2022-Present | 🛠 Custom solutions, client projects |
+| **Professional Freelancer**  | Software Developer | 2022-Present |  60% API performance optimization |
 
 </div>
 
@@ -244,26 +251,28 @@
 
 ---
 
-##  WHAT I'M LOOKING FOR
+##  SEEKING OPPORTUNITIES
 
 <table>
 <tr>
 <td width="50%">
 
-###  Ideal Opportunities
+###  Ideal Roles
 - **Backend Engineer** roles in dynamic tech environments
-- **Full-Stack Developer** positions with backend focus
+- **Full-Stack Engineer** positions with backend focus
 - **DevOps Engineer** opportunities in cloud environments
 - **Technical Lead** roles in software development teams
 
 </td>
 <td width="50%">
 
-###  What I Offer Employers
+###  What I Offer
 -  **Immediate Impact** - 3+ years of proven experience
--  **Strong Foundation** - Carnegie Mellon education
--  **Full-Stack Versatility** - Backend specialist with DevOps and architecture skills
--  **Team Collaboration** - Mentoring and leadership skills
+-  **Strong Foundation** - Carnegie Mellon University - Masters in Software Engineering
+-  **Technical Leadership** - Architecture decision-making
+-  **Mentoring**: Team development and standards
+-  **Versatility**: Full-stack with backend specialization
+
  
 </td>
 </tr>
