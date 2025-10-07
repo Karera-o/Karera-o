@@ -88,7 +88,7 @@
 - **Backend Lead Engineer** @ Comphrensive Staffing Resources (2023-Present)
 
 
-## 🛠 TECHNOLOGY STACK
+##  TECHNOLOGY STACK
 
 <h3 align="center"> Backend & Languages</h3>
 <p align="center">
@@ -100,7 +100,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
 </p>
 
-<h3 align="center">🗄 Databases & Storage</h3>
+<h3 align="center"> Databases & Storage</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
