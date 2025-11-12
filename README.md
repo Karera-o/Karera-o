@@ -32,7 +32,7 @@
 
 <!-- Quote -->
 <p align="center">
-  <i> "I build systems that reduce costs by 90% while boosting performance by 60% - specializing in high-impact backend solutions for 1M+ users" </i>
+  <i> "I build systems that reduce costs by 90% while improving performance by 40% - specializing in high-impact backend solutions for 10k users" </i>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 ### What I Bring to Your Team
 -  **Experience as Software Engineer** with 3+ years building web applications 
--  **Performance Optimization**** - 60% performance improvement in API response times
+-  **Performance Optimization**** - 40% performance improvement in API response times
 -  **Cost Optimization** - Reduced costs by 90% infrastructure cost reduction (PAAS → IAAS migration)
 -  **System Scalability Mindset** - Built systems that handle 10,000+ users simultaneously
 -  **40% faster feature delivery** - through architectural improvements
